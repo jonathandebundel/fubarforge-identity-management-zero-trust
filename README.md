@@ -20,9 +20,9 @@ The project integrates an on-premises Active Directory environment with Microsof
 
 ## Architecture Diagram
 
-![Hybrid Identity Architecture](01-Architecture/Figure-01-Hybrid-Identity-Architecture.png)
+[![Hybrid Identity Architecture](01-Architecture/Figure-01-Hybrid-Identity-Architecture.png)](01-Architecture/Figure-01-Hybrid-Identity-Architecture.png)
 
-
+---
 
 #### \# Core Technologies
 
