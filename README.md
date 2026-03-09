@@ -234,7 +234,6 @@ Project name: \*\*FubarForge\*\*
 
 Domain: \*\*fubarforge.org\*\*  
 
-Cloud tenant: \*\*fubarforge.onmicrosoft.com\*\*
 
 
 
